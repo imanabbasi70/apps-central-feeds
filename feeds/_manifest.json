@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
-  "publishedAt": "2026-11-16T19:08:26.956Z",
-  "totalApps": 3,
+  "publishedAt": "2026-11-16T19:49:48.458Z",
+  "totalApps": 7,
   "feeds": [
     {
       "packageName": "ir.vamino.app",
@@ -17,6 +17,26 @@
       "packageName": "ir.ghoflino.app",
       "itemsCount": 0,
       "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.ghoflino.app.json"
+    },
+    {
+      "packageName": "ir.adadino.app",
+      "itemsCount": 0,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.adadino.app.json"
+    },
+    {
+      "packageName": "ir.kharjinoo.app",
+      "itemsCount": 0,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.kharjinoo.app.json"
+    },
+    {
+      "packageName": "ir.gahshomar.appir.gahshomar.app",
+      "itemsCount": 0,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.gahshomar.appir.gahshomar.app.json"
+    },
+    {
+      "packageName": "ir.sudokino.app",
+      "itemsCount": 0,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.sudokino.app.json"
     }
   ]
 }

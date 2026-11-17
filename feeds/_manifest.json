@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
-  "publishedAt": "2026-11-17T20:21:44.105Z",
-  "totalApps": 7,
+  "publishedAt": "2026-11-17T20:28:36.685Z",
+  "totalApps": 9,
   "feeds": [
     {
       "packageName": "ir.vamino.app",
@@ -37,6 +37,16 @@
       "packageName": "ir.sudokino.app",
       "itemsCount": 0,
       "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.sudokino.app.json"
+    },
+    {
+      "packageName": "ir.dango.app",
+      "itemsCount": 0,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.dango.app.json"
+    },
+    {
+      "packageName": "ir.ajorkoob.app",
+      "itemsCount": 0,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.ajorkoob.app.json"
     }
   ]
 }

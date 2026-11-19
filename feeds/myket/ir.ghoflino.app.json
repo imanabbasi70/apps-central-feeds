@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "3.0",
+  "generatedAt": "2026-11-19T19:42:34.096Z",
+  "storeChannel": "myket",
+  "hostPackageName": "ir.ghoflino.app",
+  "boxTitle": "سایر اپلیکیشن‌های ما",
+  "showDescriptions": true,
+  "gridRows": 2,
+  "gridColumns": 4,
+  "autoRotate": true,
+  "rotationIntervalSeconds": 4,
+  "apps": [
+    {
+      "id": "app-1794756478488",
+      "name": "حافظینو",
+      "shortDescription": "",
+      "packageName": "ir.hafezino.app",
+      "iconUrl": "",
+      "storeUrl": "https://myket.ir/app/ir.hafezino.app",
+      "displayOrder": 2,
+      "showInAllApps": true,
+      "targetHostPackages": []
+    },
+    {
+      "id": "app-1794858221623",
+      "name": "عددینو",
+      "shortDescription": "",
+      "packageName": "ir.adadino.app",
+      "iconUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/icons/ir.adadino.app.webp",
+      "storeUrl": "https://myket.ir/app/ir.adadino.app",
+      "displayOrder": 4,
+      "showInAllApps": true,
+      "targetHostPackages": []
+    },
+    {
+      "id": "app-1794858318652",
+      "name": "خرجینو",
+      "shortDescription": "",
+      "packageName": "ir.kharjinoo.app",
+      "iconUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/icons/ir.kharjinoo.app.webp",
+      "storeUrl": "https://myket.ir/app/ir.kharjinoo.app",
+      "displayOrder": 5,
+      "showInAllApps": true,
+      "targetHostPackages": []
+    },
+    {
+      "id": "app-1794858421669",
+      "name": "گاه شمار",
+      "shortDescription": "",
+      "packageName": "ir.gahshomar.appir.gahshomar.app",
+      "iconUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/icons/ir.gahshomar.appir.gahshomar.app.webp",
+      "storeUrl": "https://myket.ir/app/ir.gahshomar.app",
+      "displayOrder": 6,
+      "showInAllApps": true,
+      "targetHostPackages": []
+    },
+    {
+      "id": "app-1794858486257",
+      "name": "سودوکینو",
+      "shortDescription": "",
+      "packageName": "ir.sudokino.app",
+      "iconUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/icons/ir.sudokino.app.webp",
+      "storeUrl": "https://myket.ir/app/ir.sudokino.app",
+      "displayOrder": 7,
+      "showInAllApps": true,
+      "targetHostPackages": []
+    },
+    {
+      "id": "app-recovered-ir.dango.app",
+      "name": "دنگو",
+      "shortDescription": "",
+      "packageName": "ir.dango.app",
+      "iconUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/icons/ir.dango.app.webp",
+      "storeUrl": "https://myket.ir/app/ir.dango.app",
+      "displayOrder": 8,
+      "showInAllApps": true,
+      "targetHostPackages": []
+    },
+    {
+      "id": "app-recovered-ir.ajorkoob.app",
+      "name": "آجرکوب",
+      "shortDescription": "",
+      "packageName": "ir.ajorkoob.app",
+      "iconUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/icons/ir.ajorkoob.app.webp",
+      "storeUrl": "https://myket.ir/app/ir.ajorkoob.app",
+      "displayOrder": 9,
+      "showInAllApps": true,
+      "targetHostPackages": []
+    }
+  ]
+}

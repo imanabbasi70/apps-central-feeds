@@ -1,52 +1,119 @@
 {
-  "schemaVersion": "2.0",
-  "publishedAt": "2026-11-19T19:26:53.756Z",
+  "schemaVersion": "3.0",
+  "publishedAt": "2026-11-19T19:42:34.096Z",
   "totalApps": 9,
+  "stores": [
+    "cafebazaar",
+    "myket"
+  ],
   "feeds": [
     {
+      "store": "cafebazaar",
       "packageName": "ir.vamino.app",
-      "itemsCount": 0,
-      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.vamino.app.json"
+      "itemsCount": 8,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/cafebazaar/ir.vamino.app.json"
     },
     {
+      "store": "cafebazaar",
       "packageName": "ir.hafezino.app",
-      "itemsCount": 0,
-      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.hafezino.app.json"
+      "itemsCount": 8,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/cafebazaar/ir.hafezino.app.json"
     },
     {
+      "store": "cafebazaar",
       "packageName": "ir.ghoflino.app",
-      "itemsCount": 0,
-      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.ghoflino.app.json"
+      "itemsCount": 7,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/cafebazaar/ir.ghoflino.app.json"
     },
     {
+      "store": "cafebazaar",
       "packageName": "ir.adadino.app",
-      "itemsCount": 0,
-      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.adadino.app.json"
+      "itemsCount": 7,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/cafebazaar/ir.adadino.app.json"
     },
     {
+      "store": "cafebazaar",
       "packageName": "ir.kharjinoo.app",
-      "itemsCount": 0,
-      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.kharjinoo.app.json"
+      "itemsCount": 7,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/cafebazaar/ir.kharjinoo.app.json"
     },
     {
+      "store": "cafebazaar",
       "packageName": "ir.gahshomar.appir.gahshomar.app",
-      "itemsCount": 0,
-      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.gahshomar.appir.gahshomar.app.json"
+      "itemsCount": 7,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/cafebazaar/ir.gahshomar.appir.gahshomar.app.json"
     },
     {
+      "store": "cafebazaar",
       "packageName": "ir.sudokino.app",
-      "itemsCount": 0,
-      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.sudokino.app.json"
+      "itemsCount": 7,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/cafebazaar/ir.sudokino.app.json"
     },
     {
+      "store": "cafebazaar",
       "packageName": "ir.dango.app",
-      "itemsCount": 0,
-      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.dango.app.json"
+      "itemsCount": 7,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/cafebazaar/ir.dango.app.json"
     },
     {
+      "store": "cafebazaar",
       "packageName": "ir.ajorkoob.app",
-      "itemsCount": 0,
-      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/ir.ajorkoob.app.json"
+      "itemsCount": 7,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/cafebazaar/ir.ajorkoob.app.json"
+    },
+    {
+      "store": "myket",
+      "packageName": "ir.vamino.app",
+      "itemsCount": 8,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/myket/ir.vamino.app.json"
+    },
+    {
+      "store": "myket",
+      "packageName": "ir.hafezino.app",
+      "itemsCount": 8,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/myket/ir.hafezino.app.json"
+    },
+    {
+      "store": "myket",
+      "packageName": "ir.ghoflino.app",
+      "itemsCount": 7,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/myket/ir.ghoflino.app.json"
+    },
+    {
+      "store": "myket",
+      "packageName": "ir.adadino.app",
+      "itemsCount": 7,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/myket/ir.adadino.app.json"
+    },
+    {
+      "store": "myket",
+      "packageName": "ir.kharjinoo.app",
+      "itemsCount": 7,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/myket/ir.kharjinoo.app.json"
+    },
+    {
+      "store": "myket",
+      "packageName": "ir.gahshomar.appir.gahshomar.app",
+      "itemsCount": 7,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/myket/ir.gahshomar.appir.gahshomar.app.json"
+    },
+    {
+      "store": "myket",
+      "packageName": "ir.sudokino.app",
+      "itemsCount": 7,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/myket/ir.sudokino.app.json"
+    },
+    {
+      "store": "myket",
+      "packageName": "ir.dango.app",
+      "itemsCount": 7,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/myket/ir.dango.app.json"
+    },
+    {
+      "store": "myket",
+      "packageName": "ir.ajorkoob.app",
+      "itemsCount": 7,
+      "rawUrl": "https://raw.githubusercontent.com/imanabbasi70/apps-central-feeds/main/feeds/myket/ir.ajorkoob.app.json"
     }
   ]
 }
